@@ -1,0 +1,63 @@
+.headerStyle{
+  background: #ffffff;
+  margin-bottom: 1.45rem;
+}
+
+.headerDivStyle {
+  padding: 1rem 0 3rem;
+  display: flex;
+  align-content: center;
+}
+
+.headerImg{
+  vertical-align: middle;
+  margin: auto;
+  padding-right: 10px;
+}
+
+.headerText{
+  vertical-align: middle;
+  margin: auto;
+}
+
+.headerLink{
+  color: #3f76bb;
+  text-decoration: none;
+}
+
+.headerDivider{
+  vertical-align: middle;
+  background-color: #3f76bb;
+}
+
+.headerSeparator{
+  width: 20vw;
+}
+.headerDir{
+  font-size: 15px;
+}
+
+.nav-item{
+  color: #FFFFFF;
+  font-size: .9rem;
+  margin-right: 1.3rem;
+  text-decoration: none;
+}
+
+.nav-item:hover{
+  color: #000000;
+}
+
+.nav-list{
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+}
+
+.active-nav-item{
+  color: #333333;
+}
+
+.nav-list-li{
+  margin: auto 1rem;
+}
