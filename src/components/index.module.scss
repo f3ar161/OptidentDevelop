@@ -27,3 +27,10 @@
 .active-link{
   color: #333333;
 }
+@media only screen and (max-width: 480px) {
+  .bg{
+    background-image: url("../images/background.jpg");
+    background-size: 100% 100%;
+    height: 30vh;
+  }
+}
